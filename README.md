@@ -3,7 +3,7 @@
 **A structured operating system for non-technical professionals working with AI agents.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/[username]/ai-workspace-os?style=social)](https://github.com/[username]/ai-workspace-os)
+[![Stars](https://img.shields.io/github/stars/KirKruglov/ai-workspace-os?style=social)](https://github.com/[username]/ai-workspace-os)
 
 
 Works with **Claude · ChatGPT · Gemini · any LLM chat tool**
