@@ -1,3 +1,5 @@
+[Русская версия →](ru/README.md)
+
 # AI Workspace OS
 
 **A structured operating system for non-technical professionals working with AI agents.**
