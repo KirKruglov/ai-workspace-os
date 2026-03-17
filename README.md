@@ -134,12 +134,6 @@ If this is useful, ⭐ star the repo — it helps others find it.
 
 ---
 
-## Contributing
-
-Issues and PRs are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) *(coming soon)*.
-
----
-
 ## License
 
 MIT — free to use, fork, and adapt. See [LICENSE](LICENSE).
