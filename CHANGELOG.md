@@ -6,7 +6,7 @@ Format: [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`
 
 ---
 
-## [0.1.0] — 2026-03-11
+## [0.1.0] — 2026-03-17
 
 ### Initial release
 
